@@ -1,0 +1,6 @@
+## Interface: 100005
+## Title: FatMap
+## Author: onomora
+## Version: 0.0.0
+
+index.lua
